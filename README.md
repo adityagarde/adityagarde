@@ -110,7 +110,7 @@
 </p>
       
 <h2>🤝 Let's stay connected!</h2>
-<a href="https://www.linkedin.com/in/adityagarde/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/TheAdityaGarde" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;  <a href="https://leetcode.com/AdityaGarde/" target="_blank"><img src="https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/Leetcode.jpg" width=40px height=40px title=""/></a>
+<a href="https://www.linkedin.com/in/adityagarde/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/TheAdityaGarde" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;  <a href="https://leetcode.com/AdityaGarde/" target="_blank"><img src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" width=40px height=40px title=""/></a>
     <br/>
     <br/>
 <a href="https://github.com/adityagarde/github-profile-views-counter">
