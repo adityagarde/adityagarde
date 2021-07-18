@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Aditya Garde!
-- 👀 I am interested in Backend Design and Development, Microservice architecture, RESTful APIs and Cloud Native technologies.
-- 👨🏻‍💻 I have worked on a major Core Banking and Digital Banking product. Currently working on SaaS based IT Infrastructure Monitoring product.
+<h2> < Hello World, I'm <a href="https://www.linkedin.com/in/adityagarde/" target="_blank"> Aditya Garde</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align='right' src='https://octodex.github.com/images/jenktocat.jpg' width='225"'> </h2>
+    
+- I am working as a Software Engineer at <a href="https://www.logicmonitor.com/" target="_blank"> LogicMonitor</a> which is a SaaS based IT Infrastructure Monitoring product. Before that I was working with <a href="https://www.oracle.com/in/industries/financial-services/" target="_blank"> Oracle</a> on their flagship Core Banking and Digital Banking product - Flexcube(UBS).
+- Currently I am learning <a href="https://github.com/quarkusio" target="_blank"> Quarkus</a> which is a Cloud-native Java framework and is an answer to people who say that Java is slow or dying😉
+- I am interested in Backend Design and Development, Microservice architecture, RESTful APIs and Cloud Native technologies.
+- Otherwise, I love travelling and cycling. And I am a History, Philosophy and Literature buff.
 - 📩 Feel free to reach me at aditya.garde96@gmail.com.
-- 📌 Profile - https://www.linkedin.com/in/adityagarde/
-
-----
-<h4>My Toolkit</h4>
+ 
+<h2>🛠 My Toolkit</h2>
 
 <p align="left">
     <a href="https://www.oracle.com/java/technologies/" target="_blank">
@@ -101,6 +102,21 @@
     </a>
 </p>
 
+<h2>🏆 Github Stats</h2>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=adityagarde&theme=radical&show_icons=true" alt="Aditya's Github Stats" width="40%"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adityagarde&theme=dark" width="40%">
+</p>
+      
+<h2>🤝 Let's stay connected!</h2>
+<a href="https://www.linkedin.com/in/adityagarde/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/TheAdityaGarde" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;  <a href="https://leetcode.com/AdityaGarde/" target="_blank"><img src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" width=40px height=40px title=""/></a>
+    <br/>
+    <br/>
+<a href="https://github.com/adityagarde/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=adityagarde">
+</a>
+ 
 <!---
 adityagarde/adityagarde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
