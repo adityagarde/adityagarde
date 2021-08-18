@@ -1,4 +1,5 @@
-<h2> < Hello World, I'm <a href="https://www.linkedin.com/in/adityagarde/" target="_blank"> Aditya Garde</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width='225"'> </h2>
+<h2> < Hello World, I'm <a href="https://www.linkedin.com/in/adityagarde/" target="_blank"> Aditya Garde</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h2>
+    <img align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width='225"'>
     
 - I am working as a Software Engineer at <a href="https://www.logicmonitor.com/" target="_blank"> LogicMonitor</a> which is a SaaS based IT Infrastructure Monitoring product. Before that I was working with <a href="https://www.oracle.com/in/industries/financial-services/" target="_blank"> Oracle</a> on their flagship Core Banking and Digital Banking product - Flexcube(UBS).
 - Currently I am learning <a href="https://github.com/quarkusio" target="_blank"> Quarkus</a> which is a Cloud-native Java framework and is an answer to people who say that Java is slow or dying😉
@@ -105,9 +106,9 @@
 <h2>🏆 Github Stats</h2>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=adityagarde&theme=radical&show_icons=true" alt="Aditya's Github Stats" width="40%"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adityagarde&theme=dark" width="40%">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagarde&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile&langs_count=10" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityagarde&theme=radical&show_icons=true" alt="Aditya's Github Stats" width="45%"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adityagarde&theme=dark" width="45%">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagarde&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="40%">
 </p>
       
 <h2>🤝 Let's stay connected!</h2>
