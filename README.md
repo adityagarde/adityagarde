@@ -19,6 +19,9 @@
     <a href="https://github.com/spring-cloud" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/7815877?s=200&v=4" alt="Spring Cloud" width="45" height="45" />
     </a>
+    <a href="https://projectreactor.io/" target="_blank">
+        <img src="resources/ProjectReactor.png" alt="Project Reactor" width="45" height="45" />
+    </a>
     <a href="https://github.com/hibernate" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg" alt="Hibernate" width="45" height="45" />
     </a>
@@ -33,8 +36,11 @@
     <a href="https://groovy-lang.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" alt="groovy" width="45" height="45" />
     </a>
+    <a href="https://golang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/9fe99fbf17b019125bf649f8a921882b54e151a6/gopher.svg" alt="golang" width="45" height="45" />
+    </a>
     <a href="https://kafka.apache.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kafka.svg" alt="kafka" width="45" height="45" />
+        <img src="resources/kafkalogo.png" alt="kafka" width="42" height="45" />
     </a>
     <a href="" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -44,9 +50,6 @@
     </a>
     <a href="https://graphql.org" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45" />
-    </a>
-    <a href="https://jquery.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/jquery.svg" alt="jquery" width="45" height="45" />
     </a>
     <a href="https://maven.apache.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg" alt="maven" width="45" height="45" />
@@ -85,6 +88,9 @@
     </a>
     <a href="https://kubernetes.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kubernetes.svg" alt="kubernetes" width="45" height="45" />
+    </a>
+        <a href="https://helm.sh/docs/" target="_blank">
+        <img src="resources/helm.svg" alt="Helm" width="45" height="45" />
     </a>
     <a href="https://aws.amazon.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" />
