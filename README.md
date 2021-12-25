@@ -37,7 +37,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" alt="groovy" width="45" height="45" />
     </a>
     <a title="Go" href="https://golang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/9fe99fbf17b019125bf649f8a921882b54e151a6/gopher.svg" alt="golang" width="45" height="45" />
+        <img src="resources/gopher.svg" alt="golang" width="45" height="45" />
     </a>
     <a title="Kafka" href="https://kafka.apache.org/" target="_blank">
         <img src="resources/kafkalogo.svg" alt="kafka" width="50" height="48" />
