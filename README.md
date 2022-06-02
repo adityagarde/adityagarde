@@ -1,5 +1,5 @@
-<h2> < Hello World, I'm <a href="https://www.linkedin.com/in/adityagarde/" target="_blank"> Aditya Garde</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">  </h2>
-    <img align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width='225"' height='225"'>
+<h2> < Hello World, I'm <a href="https://www.linkedin.com/in/adityagarde/" target="_blank"> Aditya Garde</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">  </h2>
+    <img align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width="225" height="225">
     
 - I am working as a Software Engineer at <a href="https://www.logicmonitor.com/" target="_blank"> LogicMonitor</a> which is a SaaS based IT Infrastructure Monitoring product. Before that I was working with <a href="https://www.oracle.com/in/industries/financial-services/" target="_blank"> Oracle</a> on their flagship Core Banking and Digital Banking product - Flexcube(UBS).
 - Currently I am learning <a href="https://github.com/quarkusio" target="_blank"> Quarkus</a> which is a Cloud-native Java framework and is an answer to people who say that Java is slow or dying😉
